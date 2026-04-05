@@ -1,2 +1,2 @@
-# RA18H1213
-RA18H1213 Amplifier PCB Project
+# RA18H1213G
+RA18H1213G Amplifier PCB Project
